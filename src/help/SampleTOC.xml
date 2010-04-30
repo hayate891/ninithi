@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN"
+         "../dtd/toc_2_0.dtd">
+<toc version="2.0">
+<tocitem text="Ninithi help" image="toplevelfolder">
+
+   <tocitem text="Introduction to Ninithi" target="ninithi"/>
+
+   <tocitem text="Graphene" target="whatisgraphene" expand="true">
+       <tocitem text="What is graphene" target="whatisgraphene"/>
+       <tocitem text="Drawing graphene" target="drawgraphene"/>
+       <tocitem text="Electrical properties" target="egraphene"/>
+   </tocitem>
+
+   <tocitem text="Carbon nanoribbon" target="whatarecnr" expand="true">
+       <tocitem text="What are carbon nanoribbons" target="whatarecnr"/>
+       <tocitem text="Drawing nanoribbons" target="drawcnr"/>       
+   </tocitem>
+
+   <tocitem text="Single-Wall Carbon Nanotubes" target="whatarecnt" expand="true">
+       <tocitem text="What are carbon nanotubes" target="whatarecnt"/>
+       <tocitem text="Drawing single wall naotubes" target="drawcnt"/>
+       <tocitem text="Electrical properties" target="ecnt"/>
+   </tocitem>
+
+   <tocitem text="Multi-Wall Carbon Nanotubes" target="whataremwnt" expand="true">
+       <tocitem text="What are multi-wall nanotubes" target="whataremwnt"/>
+       <tocitem text="Drawing multi-wall naotubes" target="drawmwnt"/>       
+   </tocitem>
+
+   <tocitem text="Fullerene" target="whatarefullerene" expand="true">
+       <tocitem text="What are fullerenes" target="whatarefullerene"/>
+       <tocitem text="Drawing fullerines" target="drawfullerene"/>       
+   </tocitem>
+
+   <tocitem text="Customizing the view" target="changesizecolor" expand="true">
+       <tocitem text="Change color and size" target="changesizecolor"/>
+       <tocitem text="Change background color" target="background"/> 
+       <tocitem text="Drag, rotate and zoom" target="drag"/> 
+   </tocitem>
+
+   <tocitem text="Save graphic" target="save"/>
+  
+</tocitem>
+</toc>
+

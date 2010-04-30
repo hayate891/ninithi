@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/javase/technologies/desktop/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="toplevelfolder" url="images/icon.png" />
+	<mapID target="top" url="html/Ninithi.html" />
+
+	<mapID target="intro" url="html/helloWorld.html" />
+	<mapID target="start" url="html/start.html" />
+        <mapID target="overview" url="html/welcome.html" />
+	<mapID target="one" url="html/start.html" />
+	<mapID target="two" url="html/start.html" />
+
+	<mapID target="bean.story" url="html/welcome.html" />
+	<mapID target="bean.story" url="html/start.html" />
+	<mapID target="bean.story" url="html/welcome.html" />
+
+        <mapID target="ninithi" url="html/Ninithi.html" />
+	<mapID target="whatisgraphene" url="html/whatisgraphene.htm" />
+        <mapID target="drawgraphene" url="html/drawgraphene.htm" />
+	<mapID target="egraphene" url="html/egraphene.htm" />
+	<mapID target="whatarecnt" url="html/whatarecnt.htm" />
+        <mapID target="drawcnr" url="html/drawcnr.htm" />
+        <mapID target="whatarecnr" url="html/whatarecnr.htm" />
+        <mapID target="drawcnt" url="html/drawcnt.htm" />
+	
+	<mapID target="ecnt" url="html/ecnt.htm" />
+        <mapID target="drawmwnt" url="html/drawmwnt.htm" />
+        <mapID target="whatarefullerene" url="html/whatarefullerene.htm" />
+        <mapID target="whataremwnt" url="html/whataremwnt.htm" />	
+	<mapID target="drawfullerene" url="html/drawfullerene.htm" />
+	
+	<mapID target="changesizecolor" url="html/changesizecolor.htm" />
+        <mapID target="background" url="html/background.htm" />	
+	<mapID target="save" url="html/save.htm" />
+        <mapID target="drag" url="html/drag.html" />
+</map>
+
